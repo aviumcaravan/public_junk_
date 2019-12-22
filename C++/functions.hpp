@@ -3,4 +3,6 @@
 
 //function projects
 
+long absolute(long& a); //function returns absolute value
+
 #endif
